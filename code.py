@@ -28,8 +28,7 @@ install_if_needed("unstructured", "0.14.4")
 install_if_needed("chromadb", "0.5.0")
 
 # Set your OpenAI API key
-openai_api_key = "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"
-
+openai_api_key = ""
 # Initialize speech recognizer and TTS engine
 recognizer = sr.Recognizer()
 
